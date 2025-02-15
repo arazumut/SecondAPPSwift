@@ -27,6 +27,8 @@ struct ContentView: View {
         "Gülümse, çünkü sen değerlisin! 😊",
         "Her gün yeni bir başlangıçtır! 🌅"
     ]
+
+    //Produced By K. Umut Araz
     
     struct ImagePicker: UIViewControllerRepresentable {
         class Coordinator: NSObject, UINavigationControllerDelegate, UIImagePickerControllerDelegate {
